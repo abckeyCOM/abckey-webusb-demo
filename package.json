@@ -11,7 +11,7 @@
     "@abckey/webusb": "^0.3.3",
     "@babel/polyfill": "^7.4.4",
     "@trust/keyto": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bignumber.js": "^9.0.0",
     "core-js": "^3.6.5",
     "elliptic": "^6.5.2",
